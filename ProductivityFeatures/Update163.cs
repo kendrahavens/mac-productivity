@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ProductivityFeatures
+{
+    // Rename file when renaming a class, interface, or enum
+    // Place your cursor in the class name and type (⌘R) to 
+    // open the Rename dialogue and check the ‘Rename file’ box
+    class Update163
+    {
+    }
+}
