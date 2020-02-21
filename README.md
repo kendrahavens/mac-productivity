@@ -1,32 +1,32 @@
-# Visual Studio recent productivity features
+# Visual Studio for Mac recent productivity features
 
 ## Summary
 This repo contains a simple console app that demonstrates several codefixes and refactorings in recent Visual Studio versions.
 
 - Clone the repo and follow the comments in the code.
-- Check out the [Visual Studio Productivity guide](https://aka.ms/productivityguide) for more features!
+- Check out the [Visual Studio for Mac Tour](https://docs.microsoft.com/en-us/visualstudio/mac/ide-tour) for more features!
 
 ## Features included in tutorial
 
-### Features coming soon in Visual Studio 2019 update 16.5
+### Features in Visual Studio for Mac 2019 update 8.4 (Preview)
 - Extract local function (Alt + enter)
 - Simplify interpolated string (Alt + enter)
 - Completion for unimported types and extension methods (Ctrl + space)
 - Convert if statement to switch statement or expression (Alt + enter)
 - Make method static (Alt + enter)
 
-### Features added in Visual Studio 2019 update 16.4
+### Features added in Visual Studio for Mac 2019 update 8.3
 - Configure severity level of a code style rule directly through the editor
 - Add null checks for all parameters
 - Go to Base (Alt + Home)
 - Make a local function static (Alt + enter)
 - Pass variable explicitly in local static function (Alt + enter)
 
-### Features added in Visual Studio 2019 update 16.2
+### Features added in Visual Studio for Mac 2019 update 8.2
 - Convert switch statement to switch expresssion (Alt + enter)
 - Generate parameter (Alt + enter)
 
-### Features added in Visual Studio 2019 update 16.1
+### Features added in Visual Studio for Mac 2019 update 8.1
 - Toggle single line comments (⌘/)
 - Make readonly struct fields writable (Alt + enter)
 - Split/Merge nested if statements (Alt + enter)
@@ -34,7 +34,7 @@ This repo contains a simple console app that demonstrates several codefixes and 
 - Wrap binary expressions (Alt + enter)
 - Code fix to unseal a class (Alt + enter)
 
-### Features added in Visual Studio 2019 update 16.0
+### Features added in earlier Visual Studio 2019 releases now available in new VS for Mac editor
 - Wrap, indent, align parameters (Alt + enter)
 - Use expression/block body for lambda (Alt + enter)
 - Invert conditional expressions and logical operations (Alt + enter)
@@ -52,8 +52,6 @@ This repo contains a simple console app that demonstrates several codefixes and 
 - Generate deconstructor (Alt + enter)
 - Convert anonymous type to tuple (Alt + enter)
 - Convert anonymous type to class (Alt + enter)
-
-### Features added in Visual Studio 2017 update 15.8
 - Invert if (Alt + enter)
 - Multi-caret (Ctrl + alt + click)
 - Convert to conditional expression (Alt + enter)
